@@ -43,12 +43,22 @@ I have experience working on projects in the **financial sector** and **public a
 
 ---
 
-## 📊 GitHub Stats  
-<div>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelacirino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaelacirino&layout=compact&langs_count=16&theme=radical"/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/rafaelacirino">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelacirino&theme=radical&hide_border=true"/>
+  </a>
 </div>
-  
+
+<div align="center">
+  <a href="https://github.com/rafaelacirino">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelacirino&theme=radical"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafaelacirino&theme=radical"/>
+  </a>
+</div>
+
 
 ---
 
