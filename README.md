@@ -48,7 +48,7 @@ I have experience working on projects in the **financial sector** and **public a
 
 <div align="center">
   <a href="https://github.com/rafaelacirino">
-    <img height="180em" src="https://streak-stats.demolab.com?user=rafaelacirino&theme=radical&hide_border=true"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelacirino&theme=radical"/>
   </a>
 </div>
 
