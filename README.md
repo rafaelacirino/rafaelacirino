@@ -48,7 +48,7 @@ I have experience working on projects in the **financial sector** and **public a
 
 <div align="center">
   <a href="https://github.com/rafaelacirino">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelacirino&theme=radical&hide_border=true"/>
+    <img height="180em" src="https://streak-stats.demolab.com?user=rafaelacirino&theme=radical&hide_border=true"/>
   </a>
 </div>
 
